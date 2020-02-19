@@ -1,26 +1,26 @@
 # Basic
 title: 琐佬工作室
-subtitle:
-description: 欢迎来到我的琐佬工作室官方网站
+subtitle: Minecraft
+description: 欢迎来到琐佬工作室官方网站~
 # 头像里面的标题
 avatarTitle: 琐佬工作室
 # 头像里面的描述
-avatarDesc: 制作minecraft地图的工作室
-url: "www.suolao.tk"
+avatarDesc: 专门制作minecraft地图的工作室
+url: "http://baixin.io"
 
 # Comment
-# comment:
-    disqus: suolao
+comment:
+    disqus: leopard
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
     # weibo: 5366874726
-    # github: yin-ren
+    # github: leopardpan
     # zhihu: panpanleopard
     # juejin: xxx
-
+    # jianshu: 2ada30d8d0f7
     # twitter:
     mail: yin-ren@qq.com
 
@@ -28,8 +28,7 @@ social:
 # 百度统计
 # 使用博客模板请去掉或者更换 id
 baidu:
-    id: d02be86d01709002cb67221e263a288f
-
+    id: xxxx
 
 
 
@@ -67,3 +66,4 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
+

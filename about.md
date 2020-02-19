@@ -17,11 +17,8 @@ title: 关于我
 
 <p>
 email：yin-ren@qq.com       
-<p>
-qq: 1499065178     
-<p>
-如果有 搭建博客 或者 移动端 技术的问题可以一起讨论.
-<p>
+  
+
 
 
 {% include comments.html %}
